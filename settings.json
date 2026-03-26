@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "TA-AFK-Bot",
     "password": "",
     "type": "offline"
   },
@@ -12,9 +12,9 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": 136,
+    "y": 77,
+    "z": -31
   },
   "utils": {
     "auto-auth": {
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Subscribe to Tamilan area",
+        "Gulu Gulu Gulu",
+        "Im BATMAN!"
       ]
     },
     "chat-log": true,
